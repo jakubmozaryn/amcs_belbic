@@ -1,0 +1,73 @@
+\begin{thebibliography}{xx}
+
+\harvarditem{DAMADICS}{2004}{dam:02}
+DAMADICS  \harvardyearleft 2004\harvardyearright .
+\newblock Website of the {R}esearch {T}raining {N}etwork on {D}evelopment and
+  {A}pplication of {M}ethods for {A}ctuator {D}iagnosis in {I}ndustrial
+  {C}ontrol {S}ystems, {\texttt{http://diag.mchtr.pw.edu.pl/damadics}}.
+
+\harvarditem{Haykin}{1999}{Haykin:99}
+Haykin, S.  \harvardyearleft 1999\harvardyearright .
+\newblock {\em Neural Networks. A Comprehensive Foundation, 2nd Edition},
+  Prentice-Hall, Englewood Cliffs, NJ.
+
+\harvarditem{Maryak \harvardand\ Chin}{2001}{Maryak:2001}
+Maryak, J.~L. \harvardand\ Chin, D.~C.  \harvardyearleft 2001\harvardyearright
+  .
+\newblock Global random optimization by simultaneous perturbation stochastic
+  approximation, {\em Proceedings of the American Control Conference, ACC 2001,
+  Arlington VA, USA}, pp.~759--762.
+
+\harvarditem{Parker}{1985}{Park:85}
+Parker, D.~B.  \harvardyearleft 1985\harvardyearright .
+\newblock Learning logic, {\em Technical Report TR-47}, Center for
+  Computational Reasearch in Economics and Management Science, Massachusetts
+  Institute of Technology, Cambridge, MA.
+
+\harvarditem{Patan \harvardand\ Korbicz}{2004}{Patan:04}
+Patan, K. \harvardand\ Korbicz, J.  \harvardyearleft 2004\harvardyearright .
+\newblock Artificial neural networks in fault diagnosis, {\em in} J.~Korbicz,
+  J.~M. Ko\'scielny, Z.~Kowalczuk \harvardand\ W.~Cholewa (Eds), {\em Fault
+  Diagnosis. Models, Artificial Intelligence, Applications}, Springer-Verlag,
+  Berlin, pp.~330--380.
+
+\harvarditem[Patan {\it et~al}.]{Patan, Witczak \harvardand\
+  Korbicz}{2008}{Patan:08}
+Patan, K., Witczak, M. \harvardand\ Korbicz, J.  \harvardyearleft
+  2008\harvardyearright .
+\newblock Towards robustness in neural network based fault diagnosis, {\em
+  International Journal of Applied Mathematics and Computer Science} {\bf
+  18}(4):~443--454.
+\newblock DOI: 10.2478/v10006-008-0039-2.
+
+\harvarditem[Reinelt {\it et~al}.]{Reinelt, Garulli \harvardand\
+  Ljung}{2002}{Reinelt:02}
+Reinelt, W., Garulli, A. \harvardand\ Ljung, L.  \harvardyearleft
+  2002\harvardyearright .
+\newblock Comparing different approaches to model error modeling in robust
+  identification, {\em Automatica} {\bf 38}(5):~787--803.
+
+\harvarditem{Uci\'nski}{1999}{Ucinski:99}
+Uci\'nski, D.  \harvardyearleft 1999\harvardyearright .
+\newblock {\em Measurement Optimization for Parameter Estimation in Distributed
+  Systems}, Technical University of Zielona G\'ora Press, Zielona G\'ora.
+
+\harvarditem{Uci\'nski}{2005a}{Ucinski:05a}
+Uci\'nski, D.  \harvardyearleft 2005a\harvardyearright .
+\newblock {\em Optimal Measurement Methods for Distributed Parameter System
+  Identification}, CRC Press, Boca Raton, FL.
+
+\harvarditem{Uci\'nski}{2005b}{Ucinski:05b}
+Uci\'nski, D.  \harvardyearleft 2005b\harvardyearright .
+\newblock Sensor network design for parameter estimation of distributed systems
+  using nonsmooth optimality criteria, {\em Proceedings of the 44th IEEE
+  Conference on Decision and Control and European Control Conference,
+  CDC-ECC'05, Seville, Spain}.
+\newblock (CD-ROM).
+
+\harvarditem{Werbos}{1974}{Werb:74}
+Werbos, P.~J.  \harvardyearleft 1974\harvardyearright .
+\newblock {\em Beyond Regression: New Tools for Prediction and Analysis in the
+  Behavioral Sciences}, PhD thesis, Harvard University, Cambridge, MA.
+
+\end{thebibliography}
